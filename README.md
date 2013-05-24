@@ -3,7 +3,7 @@ appengine-servers-sample-java
 
 It has 2 web apps each deployed to a different server: guestbook and shardedcounter.
 
-Usage:
+Usage (After changing the app id in the appengine-servers-ear/src/main/application/META-INF/appengine-application.xml):
 
     git clone https://github.com/ludoch/appengine-servers-sample-java.git
     cd appengine-servers-sample-java
@@ -14,5 +14,4 @@ Usage:
     #or to deploy it:
     mvn appengine:update
 
-(After changing the app id in the appengine-servers-ear/src/main/application/META-INF/appengine-application.xml)
 =============================
