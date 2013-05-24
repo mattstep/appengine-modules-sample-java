@@ -1,0 +1,8 @@
+14:29:21,636 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+14:29:21,828 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+14:29:22,174 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/Users/ludo/a/appengine-servers-sample-java/appengine-servers-webapp2/target/classes/com/google/appengine/demos/shardedcounter/jdo/v1/LimitedCounterShard.class" with enhanced definition
+14:29:22,186 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/Users/ludo/a/appengine-servers-sample-java/appengine-servers-webapp2/target/classes/com/google/appengine/demos/shardedcounter/jdo/v2/Counter.class" with enhanced definition
+14:29:22,191 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/Users/ludo/a/appengine-servers-sample-java/appengine-servers-webapp2/target/classes/com/google/appengine/demos/shardedcounter/jdo/v2/CounterShard.class" with enhanced definition
+14:29:22,196 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/Users/ludo/a/appengine-servers-sample-java/appengine-servers-webapp2/target/classes/com/google/appengine/demos/shardedcounter/jdo/v3/DatastoreCounter.class" with enhanced definition
+14:29:22,201 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/Users/ludo/a/appengine-servers-sample-java/appengine-servers-webapp2/target/classes/com/google/appengine/demos/shardedcounter/jdo/v3/DatastoreCounterShard.class" with enhanced definition
+14:29:22,201 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 5 classes. Timings : input=296 ms, enhance=76 ms, total=372 ms. Consult the log for full details
