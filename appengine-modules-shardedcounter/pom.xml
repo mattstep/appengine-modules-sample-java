@@ -3,16 +3,16 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
   <groupId>com.google.appengine.sample</groupId>
-  <artifactId>appengine-servers-sample-java</artifactId>
+  <artifactId>appengine-modules-sample-java</artifactId>
     <version>1.0</version>
   </parent>
 
   <groupId>com.google.appengine.sample</groupId>
-  <artifactId>appengine-servers-shardedcounter</artifactId>
+  <artifactId>appengine-modules-shardedcounter</artifactId>
   <packaging>war</packaging>
   <version>1.0</version>
 
-  <name>appengine-servers-shardedcounter</name>
+  <name>appengine-modules-shardedcounter</name>
 
 
  

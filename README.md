@@ -1,14 +1,14 @@
-appengine-servers-sample-java
+appengine-modules-sample-java
 
 
-It has 2 web apps each deployed to a different server: guestbook and shardedcounter.
+It has 2 web apps each deployed to a different module: guestbook and shardedcounter.
 
-Usage (After changing the app id in the appengine-servers-ear/src/main/application/META-INF/appengine-application.xml):
+Usage (After changing the app id in the appengine-modules-ear/src/main/application/META-INF/appengine-application.xml):
 
-    git clone https://github.com/ludoch/appengine-servers-sample-java.git
-    cd appengine-servers-sample-java
+    git clone https://github.com/ludoch/appengine-modules-sample-java.git
+    cd appengine-modules-sample-java
     mvn install
-    cd appengine-servers-ear
+    cd appengine-modules-ear
     #to test it locally:
     mvn appengine:devserver
     #or to deploy it:

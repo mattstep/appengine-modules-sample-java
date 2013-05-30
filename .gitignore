@@ -4,3 +4,6 @@
 /appengine-servers-guestbook/target/
 /appengine-servers-shardedcounter/target/
 .DS_Store
+/appengine-modules-ear/target/
+/appengine-modules-guestbook/target/
+/appengine-modules-shardedcounter/target/
