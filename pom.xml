@@ -2,10 +2,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.google.appengine.sample</groupId>
-  <artifactId>appengine-servers-sample-java</artifactId>
+  <artifactId>appengine-modules-sample-java</artifactId>
   <version>1.0</version>
   <packaging>pom</packaging>
-  <name>appengine-servers-sample-java</name>
+  <name>appengine-modules-sample-java</name>
   
   <properties>
     <appengine.app.version>1</appengine.app.version>
@@ -14,8 +14,8 @@
   </properties>
     
   <modules>
-    <module>appengine-servers-ear</module>
-    <module>appengine-servers-guestbook</module>
-    <module>appengine-servers-shardedcounter</module>
+    <module>appengine-modules-ear</module>
+    <module>appengine-modules-guestbook</module>
+    <module>appengine-modules-shardedcounter</module>
   </modules>
 </project>
