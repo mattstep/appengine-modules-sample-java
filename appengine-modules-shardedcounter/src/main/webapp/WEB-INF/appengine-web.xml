@@ -3,6 +3,6 @@
     <version>1</version>
     <threadsafe>true</threadsafe>
     
-        <server>shardedcounter</server>
+    <module>shardedcounter</module>
 
 </appengine-web-app>
